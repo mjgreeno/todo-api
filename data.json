@@ -1,0 +1,19 @@
+{
+    "todos": [
+        {
+            "task": "Learn Vue.js",
+            "id": 1,
+            "complete": false
+        },
+        {
+            "task": "Dota2",
+            "id": 2,
+            "complete": false
+        },
+        {
+            "task": "Eat Food",
+            "id": 3,
+            "complete": false
+        }
+    ]
+}
